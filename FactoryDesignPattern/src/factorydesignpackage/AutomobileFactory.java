@@ -1,4 +1,4 @@
-// Author: Matt Spiller
+// Written by Matt Spiller
 
 package factorydesignpackage;
 
